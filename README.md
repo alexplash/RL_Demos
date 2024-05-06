@@ -1,3 +1,8 @@
+<p float="left">
+  <img src="images/DQN.png" width="30%" />
+  <img src="images/Q_Learning.png" width="48%" /> 
+</p>
+
 # Reinforcement Learning Demo
 
 This repository contains three reinforcement learning mini-projects, each utilizing a different method of reinforcement learning (RL) and solving distinct OpenAI Gym environments.
